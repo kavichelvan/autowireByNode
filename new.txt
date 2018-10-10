@@ -1,1 +1,9 @@
 The first index
+
+Git commands:
+
+1.) git clone https://github.com/kavichelvan/autowireByNode.git
+2.) git status
+3.) git add new.txt
+4.) git commit -m "new.text added"
+5.) git push
